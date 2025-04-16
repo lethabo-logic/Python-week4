@@ -1,0 +1,4 @@
+Welcome to Python programming!
+File handling is an essential skill.
+This file will be read and converted to uppercase.
+Enjoy learning!
